@@ -1,0 +1,36 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbutton {
+    font-size: 28px;
+    width: 25px;
+    color: #2874f0;
+    cursor: pointer;
+}
+
+.icon {
+
+    display: inline-block;
+    transform: rotate(310deg);
+    padding-left: 14px;
+}
+
+.normal {
+    height: 100%;
+    min-width: 124px;
+    position: relative;
+}
+
+.text {
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+    width: 100%;
+}
+
